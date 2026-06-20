@@ -59,6 +59,9 @@ Electronics & Communication Engineering Student | Flutter Developer | Open Sourc
 <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Proteus-1A73E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 ---
 
