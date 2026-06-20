@@ -4,9 +4,9 @@
 Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 </h3>
 
-## 🌐 Socials:
 
-## 🌐 Socials:
+
+🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothish007/)
 <a href="https://leetcode.com/u/jyothish007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothish007" height="30" width="40" /></a>
