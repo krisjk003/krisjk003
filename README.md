@@ -68,7 +68,7 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 
 <p align="left">
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=krisjk003&theme=tokyonight&hide_border=true" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
