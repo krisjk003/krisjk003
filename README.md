@@ -5,16 +5,11 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 </h3>
 
 ## 🌐 Socials:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothish007/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/jyothish007/)
 
-<a href="https://leetcode.com/u/jyothish007/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothish007" height="30" width="40" />
-</a>
-
-<a href="mailto:vishnujayakumar003@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="30" width="40" />
-</a>
 
 
 💻 Tech Stack
