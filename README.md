@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyothish Kumar JS</h1>
 
 <h3 align="center">
-Electronics & Communication Engineering Student | Flutter Developer | Open Source Contributor
+Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 </h3>
 
 ---
