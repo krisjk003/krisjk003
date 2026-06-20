@@ -64,12 +64,25 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
+
+
 📊 GitHub Stats
 
-<p align="left">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=krisjk003&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="65%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krisjk003&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="35%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
