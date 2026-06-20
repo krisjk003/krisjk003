@@ -9,11 +9,11 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jyothish007/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/jyothish007/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
 
