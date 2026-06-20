@@ -4,8 +4,8 @@
 Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 </h3>
 
----
-### 🌐 Connect With Me
+
+🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jyothish007/">
@@ -19,8 +19,7 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 
 
 
-
-### 💻 Tech Stack
+💻 Tech Stack
 
 <p align="left">
 
@@ -82,7 +81,7 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
     height="150px"
   />
 </a>
----
+
 
 
 
