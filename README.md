@@ -8,7 +8,7 @@ Electronics & Communication Engineering Student | Flutter Developer | Open Sourc
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/jyothish-kumar-js">
+<a href="https://www.linkedin.com/in/jyothish007/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
