@@ -12,7 +12,7 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://leetcode.com/u/DyxEwCvRjD/">
+<a href="https://leetcode.com/u/jyothish007/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
 </a>
 </p>
