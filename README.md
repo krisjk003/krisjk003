@@ -63,8 +63,8 @@ Electronics & Communication Engineering Student | Flutter Developer | Open Sourc
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
----
-### 📊 GitHub Stats
+
+📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krisjk003&theme=tokyonight&hide_border=true" />
