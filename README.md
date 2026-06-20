@@ -5,18 +5,17 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 </h3>
 
 
-🌐 Connect With Me
+🌐 Socials:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jyothish007/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:vishnujayakumar003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<a href="https://leetcode.com/u/DyxEwCvRjD/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
 </a>
 </p>
-
 
 
 💻 Tech Stack
