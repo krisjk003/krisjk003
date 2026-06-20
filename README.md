@@ -64,14 +64,14 @@ Electronics & Communication Engineering Student | Flutter Developer | Open Sourc
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 ---
-
 ### 📊 GitHub Stats
 
-![Jyothish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisjk003&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krisjk003&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐ Always open to collaboration and internship opportunities.
+
 
