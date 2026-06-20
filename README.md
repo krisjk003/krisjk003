@@ -65,25 +65,23 @@ Electronics Engineer in Progress | Embedded Developer | Full Stack Developer
 </p>
 
 
-
 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="65%">
+<a href="https://git.io/streak-stats">
+  <img
+    alt="Jyothish's Streak Stats"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=krisjk003&theme=react&date_format=j%20M%5B%20Y%5D&card_width=470&background=121212&border=transparent&border_radius=15"
+    height="150px"
+  />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krisjk003&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="35%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    alt="Jyothish's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjk003&layout=compact&theme=react&bg_color=121212&size_weight=0.5&count_weight=0.5&langs_count=6&border_color=00000000&border_radius=15"
+    height="150px"
+  />
+</a>
 ---
 
 
